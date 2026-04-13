@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776125129 source:g:\new folder\c++ project\logic& game base projects (2)\quiz_game\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<sstream>
+	<limits>
+

@@ -1,0 +1,5 @@
+Which of the following operators is used in C++ for the extraction (input) operation?|<<|>>|<|->|1
+When you allocate memory dynamically using the new keyword, which operator should be used to release that memory?|free()|remove|delete|destruct|2
+Which loop is guaranteed to execute at least once, even if the condition is initially false?|for loop|while loop|do-while loop|if-else|2
+Which access modifier makes a class member accessible only within the class itself and its derived (child) classes?|public|private|protected|internal|2
+What does the void keyword signify when used as a function return type?|The function returns a null pointer.|The function does not return any value.|The function returns an integer 0 by default.|The function can return any data type|1
