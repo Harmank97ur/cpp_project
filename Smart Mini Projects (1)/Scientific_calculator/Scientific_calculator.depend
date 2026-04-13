@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1775592968 source:g:\new folder\c++ project\scientific_calculator\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<limits>
+
