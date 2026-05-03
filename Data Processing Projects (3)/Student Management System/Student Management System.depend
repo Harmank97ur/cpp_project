@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1777831090 source:g:\new folder\c++ project\data processing projects (3)\student management system\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<stdexcept>
+
