@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1778104571 source:g:\new folder\c++ project\data processing projects (3)\search system\main.cpp
-	<iostream>
-	<vector>
-	<string>
-	<algorithm>
-	<iomanip>
-
