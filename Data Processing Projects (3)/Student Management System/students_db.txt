@@ -1,0 +1,6 @@
+3,Anshpreet Kaur ,3
+4,Rahul,2.78
+5,Harmandeep Kaur Brar,3.8
+6,Veer Singh Sidhu Brar,2
+1,Harman,3.8
+2,Sukh,3
